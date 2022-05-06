@@ -2,10 +2,10 @@
 	"name": "little-boost",
 	"displayName": "Little Boost",
 	"author": "MCPC",
-	"description": "Little coding, Add more items and blocks from [green]Easy to build[] until [purple]Advanced machine[]",
-	"version": "1.2.1",
+	"description": "Little coding, Add more items and blocks from Easy to build until purple]Advanced machine",
+	"version": "1.2.3",
 	"minGameVersion": 135,
 	"dependencies": [
-		"little-machine-code"
+		"little-machine-core"
 	]
 }
