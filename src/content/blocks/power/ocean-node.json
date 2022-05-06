@@ -1,6 +1,6 @@
 {
 	"name": "Ocean Node",
-	"description": "Can place in water and Deep Water. can place in: \nWater \nDeep Water \nLava \nTar(oil) \nCryoFluid(v7)",
+	"description": "Can place in water and Deep Water. can place in: \nWater \nDeep Water \nLava \nTar(oil) \nCryoFluid(v6 pre alpha)",
 	"laserRange": 12,
 	"maxNodes": 15,
 	"laserColor1": "#03f4fc",
