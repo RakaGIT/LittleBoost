@@ -1,0 +1,15 @@
+{
+  "name": "Lake Conduit",
+  "health": 440,
+  "liquidCapacity": 30,
+  "liquidPressure": 6,
+  "type": "conduit",
+  "placeableLiquid": true,
+  "leaks": true,
+  "requirements":[
+    {"item":"metaglass","amount":2},
+    {"item":"copper-plate","amount":1},
+    {"item":"graphite","amount":1}
+  ],
+  "category": "liquid"
+}
