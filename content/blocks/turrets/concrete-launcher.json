@@ -1,0 +1,17 @@
+{
+  "displayName": "Concrete Laucher",
+  "size": 3,
+  "description": "Launching Concrete for attack enemy",
+  "type": "itemTurret",
+  "category": "turret",
+  "maxAmmo": 20,
+  "range": 1740,
+  "minRange": 260,
+  "ammoPerShot": 2,
+  "reloadTime: 450,
+  "shots": 2,
+  "hasPower": false,
+  "health": 23860,
+  "rotateSpeed": 2,
+  "bulletType": {
+    
