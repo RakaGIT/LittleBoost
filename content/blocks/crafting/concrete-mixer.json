@@ -3,7 +3,6 @@
 	"size": 3,
 	"craftTime": 60,
 	"hasPower": true,
-	"hasLiquid": true,
 	"type": "genericCrafter",
 	"category": "crafting",
 	"consumes": {
