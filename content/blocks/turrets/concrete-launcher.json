@@ -2,7 +2,7 @@
   "displayName": "Concrete Laucher",
   "size": 3,
   "description": "Launching Concrete for attack enemy",
-  "type": "itemTurret",
+  "type": "ItemTurret",
   "category": "turret",
   "maxAmmo": 20,
   "range": 1740,
