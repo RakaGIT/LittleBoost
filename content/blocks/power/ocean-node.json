@@ -2,7 +2,7 @@
 	"name": "Ocean Node",
 	"description": "Can place in water and Deep Water. can place in: \nWater \nDeep Water \nLava \nTar(oil) \nCryoFluid(v7)",
 	"laserRange": 12,
-	"maxNodes": 15,
+	"maxNodes": 5,
 	"laserColor1": "#03f4fc",
 	"laserColor2": "#0384fc",
 	"requirements":[
