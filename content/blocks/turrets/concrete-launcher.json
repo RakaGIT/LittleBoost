@@ -8,10 +8,37 @@
   "range": 1740,
   "minRange": 260,
   "ammoPerShot": 2,
-  "reloadTime: 450,
+  "reloadTime": 600,
   "shots": 2,
   "hasPower": false,
   "health": 23860,
   "rotateSpeed": 2,
-  "bulletType": {
-    
+  "ammoType": {
+    "concrete": {
+      "speed": 5,
+      "damage" 3700,
+      "width": 25,
+      "height": 25,
+      "shootEffect": "shootBig2",
+      "smokeEffect": "shootBigSmoke",
+      "status": "freezing",
+      "homingRange": 200,
+      "homingPower": 650,
+      "ammoMultiplier": 2,
+      "frontColor": "f0dc07",
+      "backColor": "f09307"
+    }
+  },
+  "ammoUseEffect": "casing3",
+  "recoilAmount": 5,
+  "requirements": [
+    {"item":"copper","amount":4200},
+    {"item":"graphite","amount":2450},
+    {"item":"silicon","amount":3170},
+    {"item":"surge-alloy","amount":1790},
+    {"item":"concrete","amount":3850}
+  ],
+  "research": "ripple",
+  "shootSound": "artillery"
+}
+      
