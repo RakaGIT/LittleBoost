@@ -16,7 +16,7 @@
   "ammoType": {
     "concrete": {
       "speed": 5,
-      "damage" 3700,
+      "damage": 3700,
       "width": 25,
       "height": 25,
       "shootEffect": "shootBig2",
